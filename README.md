@@ -1,2 +1,3 @@
 # A-Byte-of-Python
-Byte me!
+
+My notes from the book "A Byte of Python".
